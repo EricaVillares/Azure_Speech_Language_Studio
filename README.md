@@ -76,4 +76,4 @@ A combinação entre **Speech Studio** e **Language Studio** abre portas para di
 
 ## 👩‍💻 Autora
 **Erica Alves**  
-🔗 [LinkedIn](https://www.linkedin.com/EricaVillares) • [GitHub](https://github.com/EricaVillares)
+🔗 [LinkedIn](https://www.linkedin.com/in/EricaVillares) • [GitHub](https://github.com/EricaVillares)
